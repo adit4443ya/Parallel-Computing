@@ -10,7 +10,7 @@ This repo includes some of the amazing algorithms for solving the NP-hard proble
 - It also include thier parallel implementation on multiple cores which can be set by doing small modification as per your system
 - It also includes some of the most enlightening research papers for the same which can give references
 
-All the Algorithms are designed manually.
+All the Algorithms are designed manually.(except ECL)
 
 ## Running the code
 #### Steps
